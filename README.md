@@ -4,7 +4,7 @@ Component 2 of Sprint0
 
 Project Title: Sprint0
 
-Gettiing Started: This is the first milestone in the software engineering project and we are doing the first sprint, Sprint0, to familiarize ourselves with the Gitbhub website and termnal as well as commands.
+Getting Started: This is the first milestone in the software engineering project and we are doing the first sprint, Sprint0, to familiarize ourselves with the Gitbhub website and termnal as well as commands.
 
 Authors:
 David Hani 37-414
