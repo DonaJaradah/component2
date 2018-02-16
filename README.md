@@ -2,11 +2,7 @@
 Component 2 of Sprint0
 
 
-
-<p align="center">
-  <![se](https://user-images.githubusercontent.com/36333744/36302100-e0bde3b2-130f-11e8-96bd-f104db133f06.jpg)
-raw=true" width="350"/>
-</p>
+![se](https://user-images.githubusercontent.com/36333744/36302100-e0bde3b2-130f-11e8-96bd-f104db133f06.jpg)
 
 
 Project Title: Sprint0
