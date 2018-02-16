@@ -50,8 +50,8 @@ Authors
 </tr> 
 
 <tr>
-         <td>Menna Wael/td>
-         <td> 37-7074<</td>
+         <td>Menna Wael </td>
+         <td> 37-7074 </td>
 </tr> 
            
 <tr>
