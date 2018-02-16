@@ -2,6 +2,13 @@
 Component 2 of Sprint0
 
 
+
+<p align="center">
+  <![se](https://user-images.githubusercontent.com/36333744/36302100-e0bde3b2-130f-11e8-96bd-f104db133f06.jpg)
+raw=true" width="350"/>
+</p>
+<h1 style=font-style:italic;background-color: lightblue;> 
+
 Project Title: Sprint0
 
 Getting Started: This is the first milestone in the software engineering project and we are doing the first sprint, Sprint0, to familiarize ourselves with the Gitbhub website and termnal as well as commands.
@@ -56,4 +63,3 @@ The purpose of this repo is to make sure that the code is seen by each member of
 When an issue ooccurs with the code, it is easier to alert the team here. 
 We share the code here easier.
 
-https://www.google.com.eg/search?biw=1366&bih=637&tbm=isch&sa=1&ei=76aGWp3SC4GXsAeI-L-gDg&q=computer+science+project&oq=computer+science+project&gs_l=psy-ab.3..0l10.4433.15177.0.15463.28.21.1.3.3.0.402.2449.0j3j5j1j1.10.0....0...1c.1.64.psy-ab..14.14.2476...0i67k1.0.vNrqHu8Z47I#imgrc=NFP60yU2tFte7M:
